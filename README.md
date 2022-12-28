@@ -4,7 +4,9 @@ Business Objective: Customer churn is a big problem for telecommunications compa
 Data Set Details: Each row corresponds to a client of a telecommunications company for whom it has collected information about the type of plan they have contracted, the minutes they have talked, or the charge they pay every month.
 The data set includes the following variables:
 ●state: Categorical, for the 51 states and the District of Columbia.
+
 ●Area.code
+
 ●account.length: how long the account has been active.
 ●voice.plan: yes or no, voicemail plan.
 ●voice.messages: number of voicemail messages.
